@@ -1,2 +1,2 @@
 # CV
-cv ![cv](/germanShall_cv.pdf)
+cv ![cv](/GermanShall_cv.pdf)
